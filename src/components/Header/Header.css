@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #141414;
+}
+
+.logo {
+    width: 100px;
+}
+
+nav button {
+    margin-left: 10px;
+    padding: 5px 15px;
+    font-size: 16px;
+    background-color: #1f80e0;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.home-button {
+    background-color: #1f80e0;
+}
+
+.new-video-button {
+    background-color: #e50914;
+}

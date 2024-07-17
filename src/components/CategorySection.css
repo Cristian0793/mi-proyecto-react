@@ -1,0 +1,17 @@
+.category-section {
+    margin: 20px 0;
+}
+
+.category-section h2 {
+    background-color: #1f80e0;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.video-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-around;
+}

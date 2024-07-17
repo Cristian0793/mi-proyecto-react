@@ -1,0 +1,28 @@
+.banner {
+    position: relative;
+}
+
+.banner img {
+    width: 100%;
+    height: auto;
+}
+
+.banner-content {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    color: white;
+}
+
+.banner-content .category {
+    background-color: #1f80e0;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.banner-content h2 {
+    margin: 10px 0;
+}
